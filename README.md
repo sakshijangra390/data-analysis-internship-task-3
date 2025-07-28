@@ -5,6 +5,7 @@ Perform customer segmentation using clustering techniques to group customers bas
 
 ## 📂 Dataset
 - `customer_data.csv` containing:
+  - CustomerID
   - Age
   - Annual Income
   - Spending Score
